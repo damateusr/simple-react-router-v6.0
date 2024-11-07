@@ -10,7 +10,7 @@ import BlogDetail from "./pages/BlogDetail";
 const App = ()=>{
   return (
     <>
-      <Navbar/>
+      {/*<Navbar/>
       <Routes>
         <Route path="/" element={<LayoutPublic/>}>
           <Route element={<Inicio/>} index></Route>
@@ -20,8 +20,7 @@ const App = ()=>{
         </Route>
         
         <Route element={<NotFound/>} path="*"></Route>
-      </Routes>
-
+      </Routes>*/}
     </>
   );
 }
